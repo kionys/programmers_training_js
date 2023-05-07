@@ -1,0 +1,9 @@
+- Mac 깃 토큰 이슈 참고 : https://hyeo-noo.tistory.com/184
+
+- 개인
+user.name : kionys
+user.email : kionys@github.com
+
+- 하이브
+user.name :
+user.email :
