@@ -4,6 +4,6 @@
 user.name : kionys
 user.email : kionys@github.com
 
-- 하이브
-user.name :
-user.email :
+- 비즈니스
+user.name : hive-kiwon
+user.email : kimkw@datahive.co.kr
