@@ -7,3 +7,7 @@ user.email : kionys@github.com
 - 비즈니스
 user.name : hive-kiwon
 user.email : kimkw@datahive.co.kr
+
+- git user cmd
+git config --global user.name "사용자명"
+git config --global user.email "메일주소"
