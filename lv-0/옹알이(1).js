@@ -12,6 +12,7 @@ function solution(babbling) {
     }
 
     for(let a = 0; a < copyBabbling.length; a++){
+      //split 으로 배열을 "-" 기준으로 문자열로 만들고 문자열이 된 값들을 join으로 묶어 공백인지 비교.
       if(copyBabbling[a].split("-").join("") === "") answer++; 
     }
     return answer;
